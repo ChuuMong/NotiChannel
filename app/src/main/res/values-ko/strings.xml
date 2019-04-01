@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotiChannel</string>
+
+    <string name="notification_channel_message_title">메세지</string>
+    <string name="notification_channel_message_description">새 메세지</string>
+    <string name="notification_channel_post_title">게시글</string>
+    <string name="notification_channel_post_description">새 게시글</string>
+    <string name="notification_channel_notice_title">공지사항</string>
+    <string name="notification_channel_notice_description">새 공지사항</string>
+</resources>

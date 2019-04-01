@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">NotiChannel</string>
+
+    <string name="notification_channel_message_title">Message</string>
+    <string name="notification_channel_message_description">New message.</string>
+    <string name="notification_channel_post_title">Post</string>
+    <string name="notification_channel_post_description">New post.</string>
+    <string name="notification_channel_notice_title">Notice</string>
+    <string name="notification_channel_notice_description">New notice</string>
+
+    <string name="send_message" translatable="false">Send Message</string>
+    <string name="send_post" translatable="false">Send Post</string>
+    <string name="send_notice" translatable="false">Send Notice</string>
+    <string name="setting" translatable="false">Setting</string>
+    <string name="setting_message" translatable="false">Message channel Setting</string>
+    <string name="delete_post" translatable="false">Delete Post Channel</string>
 </resources>
